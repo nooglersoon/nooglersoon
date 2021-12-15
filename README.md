@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hej!👋 I'm Fauzi Achmad B D 
 
-<!--
-**nooglersoon/nooglersoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Savvy
+- Professional iOS Engineer
+- Product Development Enthusiast
+- Apple Developer Academy 2021 Graduate
+- Have a dream to build a creative digital agency to develop AR/VR products. Don't hesitate to contact me if you have the same interest 😄
+- Experienced as GIS Analyst
 
-Here are some ideas to get you started:
+## Languages & Frameworks:
+- Swift (UIKit/SwiftUI) 🔥
+- Dart (Flutter) [Still Exploring 🧐]
+- Python (Django/GeoPandas)
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
