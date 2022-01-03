@@ -14,4 +14,6 @@
 - JavaScript
 
 ## Connect
+[LinkedIn](www.linkedin.com/in/fauziabd)
 
+[Email](mailto:fauziachmadb@outlook.com)
