@@ -10,7 +10,7 @@
 ## Languages & Frameworks:
 - Swift (UIKit/SwiftUI) 🔥
 - Dart (Flutter) [Still Exploring 🧐]
-- Python (Django/GeoPandas)
+- Python (Django)
 - JavaScript (nodeJS)
 
 ## Connect
