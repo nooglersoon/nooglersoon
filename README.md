@@ -11,7 +11,7 @@
 - Swift (UIKit/SwiftUI) 🔥
 - Dart (Flutter) [Still Exploring 🧐]
 - Python (Django/GeoPandas)
-- JavaScript
+- JavaScript (nodeJS)
 
 ## Connect
 [LinkedIn](www.linkedin.com/in/fauziabd)
