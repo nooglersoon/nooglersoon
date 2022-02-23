@@ -9,7 +9,6 @@
 
 ## Languages & Frameworks:
 - Swift (UIKit/SwiftUI) 🔥
-- Dart (Flutter) [Still Exploring 🧐]
 - Python (Django)
 - JavaScript (nodeJS)
 
