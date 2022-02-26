@@ -10,7 +10,7 @@
 ## Languages & Frameworks:
 - Swift (UIKit/SwiftUI) 🔥
 - Python (Django)
-- JavaScript (nodeJS)
+- JavaScript (NextJS, Node JS)
 
 ## Connect
 [LinkedIn](www.linkedin.com/in/fauziabd)
