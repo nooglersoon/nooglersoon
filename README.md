@@ -13,6 +13,7 @@
 - Python (Django)
 - JavaScript (NextJS, Node JS)
 - TypeScript
+- ChakraUI
 
 ## Connect
 [LinkedIn](www.linkedin.com/in/fauziabd)
