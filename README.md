@@ -17,11 +17,11 @@ Experience as a research analyst in spatially related problems using advanced sp
 
 ### Programming Languages
 
-Swift • TypeScript • Python
+Swift • TypeScript
 
 ### Frameworks
 
-SwiftUI • React/NextJS • TailwindCSS • ChakraUI • Django
+SwiftUI • React/NextJS • TailwindCSS • ChakraUI • Framer Motion
 
 ### Tools
 
