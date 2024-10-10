@@ -18,9 +18,13 @@ Experience as a research analyst in spatially related problems using advanced sp
 
 Swift • TypeScript • Python
 
-### Frameworks
+### Frameworks / Technologies / Design Pattern
 
-SwiftUI • SvelteKit • TailwindCSS • Framer Motion
+iOS:
+UIKit • SwiftUI • Clean Architecture • MVVM + Coordinator • The Composable Architecture (TCA) • VIPER • Unit Testing
+
+Web:
+SvelteKit • TailwindCSS • Framer Motion • NextJS
 
 ### Tools
 
